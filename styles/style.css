@@ -6,7 +6,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.font-mont{
     font-family: "Merriweather", serif;
+}
+
+.font-inter{
+    font-family: "Inter", sans-serif;
 }
 
 .container{
@@ -156,3 +163,54 @@
     margin-top: 40px;
     font-size: 20px;
 }
+/* address section css end here  */
+
+/* Coming soon css start here  */
+
+.coming-soon-para{
+    color: #7c7a82;
+}
+
+.coming-soon-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+
+}
+
+.coming-soon-single{
+    max-width: 31%;
+    padding: 20px;
+}
+
+.coming-soon-single h4{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+}
+
+.coming-soon-single h2 , .coming-soon-single h3{
+    font-size: 48px;
+    font-weight: 800;
+    color: #070211;
+    margin-top: 20px;
+}
+
+.coming-soon-single h3{
+    color: #FF0000;
+}
+
+.celebration-image{
+    max-width: 100%;
+    border: #FF0000 solid 10px;
+    padding: 20px;
+    border-radius: 200px;
+}
+
+.new-year-2{
+    width: 150px;
+    height: 150px;
+}
+
+/* Coming soon css end here  */
