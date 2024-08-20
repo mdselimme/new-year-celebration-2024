@@ -338,3 +338,66 @@
 }
 
 /* Newsletter box end here  */
+
+/* Footer box css start here  */
+
+.footer-box{
+    background: #070211;
+    color: #fff;
+    font-family: "Inter", sans-serif;
+    padding: 90px 10px;
+}
+
+.footer-box-main{
+    display: flex;
+    border-bottom: solid #ffffff 1px;
+    padding: 20px 0;
+}
+
+.social-link{
+    padding: 50px 0;
+    border-top: solid #ffffff 1px;
+    border-bottom: solid #ffffff 1px;
+    text-align: center;
+
+}
+
+.d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.social-link ul li{
+    list-style: none;
+   display: inline-block;
+   margin: 0 25px;
+}
+
+.footer-icon a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.social-link ul li a img{
+    width: 50px;
+    height: 50px;
+}
+
+.copy-text p{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.footer-text-left h3, .footer-icon a{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.footer-icon a i{
+    margin-right: 10px;
+}
+
+/* Footer box css end here  */
