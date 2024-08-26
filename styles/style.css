@@ -43,7 +43,7 @@
 }
 
 .main-banner{
-    background-image: url("/images/banner-top.png");
+    background-image: url("./images/banner-top.png");
     display: flex;
     text-align: center;
     align-items: center;
@@ -97,7 +97,7 @@
 }
 
 .main-banner-middle{
-    background-image: url("/images/middle-photo.png");
+    background-image: url("./images/middle-photo.png");
     margin-bottom: 85px;
     display: flex;
     justify-content: center;
